@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\home",
+        "_name": "_0d0cf3be"
+      },
+      {
+        "path": "login",
+        "name": "login",
+        "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\login",
+        "_name": "_d66c672c"
+      },
+      {
+        "path": "register",
+        "name": "register",
+        "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\login",
+        "_name": "_d66c672c"
+      },
+      {
+        "path": "profile/:username",
+        "name": "profile",
+        "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\profile",
+        "_name": "_62af2a6a"
+      },
+      {
+        "path": "settings",
+        "name": "settings",
+        "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\settings",
+        "_name": "_f71398fc"
+      },
+      {
+        "path": "editor",
+        "name": "editor",
+        "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\editor",
+        "_name": "_103836e8"
+      },
+      {
+        "path": "article/:slug",
+        "name": "article",
+        "component": "D:\\\\big\\\\fed-e-task-03-03\\\\realworld-nuxt\\\\pages\\\\article",
+        "_name": "_49796db7"
+      }
+    ],
+    "_name": "_03b2be49"
+  }
+]
